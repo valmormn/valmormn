@@ -7,7 +7,7 @@
 - 💬 Ask me about linux stuff.
 - 📫 How to reach me: https://valmor.net.br
 - 😄 Pronouns: Yo.
-- ⚡ Fun fact: Passionate about learning new human languages.
+<!--- ⚡ Fun fact: Passionate about learning new human languages. -->
 
 <!--
 **valmormn/valmormn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
