@@ -19,14 +19,21 @@ I'm interested in web technologies, data-driven control systems and internet of 
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+
+![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=Apache&logoColor=F05032)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM&logoColor=CB3837)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=F05032)
-![Cpp](https://img.shields.io/badge/-Cpp-000000?style=flat&logo=Cpp&logoColor=F05032)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=2962ff)
+![C++](https://img.shields.io/badge/-svg?style=flat&logo=C&logoColor=2962ff)
 
-![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=Apache&logoColor=F05032)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=Bash&logoColor=F05032)
+![Bash](https://img.shields.io/badge/-c++-black?logo=c%2B%2B)
+
+
+
 
 <hr>
 
