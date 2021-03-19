@@ -26,11 +26,10 @@ I'm interested in web technologies, data-driven control systems and internet of 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=2962ff)
-![C++](https://img.shields.io/badge/-svg?style=flat&logo=C&logoColor=2962ff)
+![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&logoColor=2962ff)
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=Bash&logoColor=F05032)
-![Bash](https://img.shields.io/badge/-c++-black?logo=c%2B%2B)
+
 
 
 
