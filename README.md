@@ -8,8 +8,6 @@ I'm a full stack dev based in Rio de Janeiro.
 
 I'm interested in web technologies, data-driven control systems and internet of things.
 
-<br></br>
-
 <h3> <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2933/2933245.svg" width="30"> Tech I use.</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
