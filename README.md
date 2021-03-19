@@ -5,8 +5,9 @@ Hi there, fellow < Coder />!
 </h1>
 
 I'm a full stack dev based in Rio de Janeiro.
-I'm interested in web technologies, 
+I'm interested in web technologies, data-driven control systems and internet of things.
 
+<br></br>
 
 <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2933/2933245.svg" width="30"> Technologies I use.
 </h3>
@@ -14,16 +15,18 @@ I'm interested in web technologies,
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap&logoColor=563D7C)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
-
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM&logoColor=CB3837)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=F05032)
+![Cpp](https://img.shields.io/badge/-Cpp-000000?style=flat&logo=Cpp&logoColor=F05032)
+
+![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=Apache&logoColor=F05032)
 
 <hr>
 
