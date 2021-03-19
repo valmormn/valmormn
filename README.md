@@ -5,6 +5,7 @@ Hi there, fellow < Coder />!
 </h1>
 
 I'm a full stack dev based in Rio de Janeiro.
+
 I'm interested in web technologies, data-driven control systems and internet of things.
 
 <br></br>
