@@ -32,9 +32,6 @@ I'm interested in web technologies, data-driven control systems and internet of 
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
 
-
-![Mysql](https://img.shields.io/badge/-Mysql-000000?style=flat&logo=Mysql)
-
 ![Mysql](https://img.shields.io/badge/-Mysql-000000?style=flat&logo=Mysql)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000000?style=flat&logo=Postgresql)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000000?style=flat&logo=Mongodb)
