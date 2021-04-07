@@ -22,6 +22,7 @@ I'm interested in web technologies, data-driven control systems and internet of 
 ![Svelte](https://img.shields.io/badge/-Svelte-000000?style=flat&logo=Svelte)
 
 ![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=Apache&logoColor=F05032)
+![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=Php&logoColor=F05032)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM&logoColor=CB3837)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
