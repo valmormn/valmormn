@@ -6,7 +6,7 @@ Hi there, fellow < Coder />!
 
 I’m an engineer, developer and tech savvy based in Rio de Janeiro.
 
-Soldering iron is my favorite language. But currently I’m having an affair with Svelte.
+Soldering iron is my favorite language but currently I’m having an affair with Svelte.
 
 I'm interested in web technologies, data-driven control systems and internet of things.
 
