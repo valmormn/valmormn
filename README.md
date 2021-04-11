@@ -4,9 +4,9 @@ Hi there, fellow < Coder />!
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="50">
 </h1>
 
-I'm an Engineer and Developer based in Rio de Janeiro.
+I’m an engineer, developer and tech savvy based in Rio de Janeiro.
 
-Currently having an affair with Svelte.
+Soldering iron is my favorite language. But currently I’m having an affair with Svelte.
 
 I'm interested in web technologies, data-driven control systems and internet of things.
 
