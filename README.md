@@ -48,5 +48,5 @@ I'm interested in web technologies, data-driven control systems and internet of 
 
 <h3> 📬 Get in touch </h3>
 
-- https://valmor.net.br
+- https://valmor.dev
 
