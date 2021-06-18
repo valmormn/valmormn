@@ -13,23 +13,10 @@ I'm interested in web technologies, data-driven control systems and internet of 
 <h3> <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2933/2933245.svg" width="30"> Tech I use.</h3>
 
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel)
-![Next.js](https://img.shields.io/badge/-Nextjs-000000?style=flat&logo=Next.js3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap&logoColor=563D7C)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Babel](https://img.shields.io/badge/-Babel-000000?style=flat&logo=Babel)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js3&logoColor=1572B6)
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Svelte](https://img.shields.io/badge/-Svelte-000000?style=flat&logo=Svelte)
-
-![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=Apache&logoColor=F05032)
-![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=Php)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js&logoColor=339933)
-![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM&logoColor=CB3837)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C&logoColor=2962ff)
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&logoColor=2962ff)
