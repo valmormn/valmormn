@@ -12,8 +12,8 @@ I'm interested in web technologies, data-driven control systems and internet of 
 
 <h3> <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2933/2933245.svg" width="30"> Tech I use.</h3>
 
-![Vercel](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=Vercel)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel)
+![Next.js](https://img.shields.io/badge/-Nextjs-000000?style=flat&logo=Next.js3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap&logoColor=563D7C)
 
