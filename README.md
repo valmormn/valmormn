@@ -1,7 +1,6 @@
 
 <h1>
 Hi there, fellow < Coder />!
-<img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="50">
 </h1>
 
 I’m an engineer, developer and tech savvy based in Rio de Janeiro.
